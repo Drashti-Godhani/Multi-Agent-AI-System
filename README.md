@@ -1,5 +1,7 @@
 # 🤖 Multi-Agent AI Research Assistant
 
+<img width="1448" height="1086" alt="Image" src="https://github.com/user-attachments/assets/d19727d0-3453-457b-8e84-cb009e35922a" />
+
 A modular, multi-agent AI system built with Python and OpenRouter API that breaks down complex user queries into tasks, routes them to specialized agents, and synthesizes a final structured answer.
 
 ---
