@@ -1,0 +1,25 @@
+Project Report: AI Research Assistant
+======================================
+Author: Drashti
+Date: June 2026
+
+Summary:
+This project is a multi-agent AI system that uses a Planner, Router, Research Agent,
+Tool Agent, Memory Store, and Synthesizer to answer complex user queries.
+
+Key Findings:
+- The Planner Agent breaks queries into 4-8 tasks.
+- The Router Agent directs tasks to the correct agent.
+- The Research Agent uses GPT-4o-mini for deep analysis.
+- The Tool Agent handles calculations, web search, and file reading.
+- Memory stores all intermediate results.
+- The Synthesizer combines everything into a final answer.
+
+Conclusion:
+The system performed well in all test cases. File reading support was
+added in version 2, enabling document-based retrieval.
+
+Recommendations:
+- Integrate real web search API (Tavily or SerpAPI)
+- Add vector database for long-term memory
+- Add streaming output support
